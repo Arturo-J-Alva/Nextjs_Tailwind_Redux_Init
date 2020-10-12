@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const SAVE_LOGIN = 'save_login';\nexport const SAVE_TIPO = 'save_tipo';","map":null,"metadata":{},"sourceType":"module"}
